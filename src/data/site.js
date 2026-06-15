@@ -5,9 +5,12 @@ export const PHOTOS = {
   about: '/photos/photo_2026-06-15_22-11-04.jpg',
   gallery: [
     '/photos/photo_2026-06-15_22-10-47.jpg',
+    '/photos/photo_2024-02-01_21-37-30.jpg',
     '/photos/photo_2026-06-15_22-10-37.jpg',
-    '/photos/photo_2026-06-15_22-10-42.jpg',
     '/photos/photo_2026-06-15_22-11-04.jpg',
+    '/photos/photo_2023-11-13_21-28-54.jpg',
+    '/photos/photo_2026-06-15_22-10-42.jpg',
+    '/photos/photo_2026-06-15_22-59-33.jpg',
   ],
 }
 
