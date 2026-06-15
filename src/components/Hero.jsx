@@ -11,7 +11,7 @@ export default function Hero() {
       >
         <span className="hero-badge">Веду набір на тренування</span>
         <h1>
-          Тренуйся з <span className="grad">{TRAINER.name}</span>
+          Тренуйся з <span className="grad">{TRAINER.nameInstr}</span>
         </h1>
         <p className="hero-role">{TRAINER.role}</p>
         <p className="hero-tagline">{TRAINER.tagline}</p>
