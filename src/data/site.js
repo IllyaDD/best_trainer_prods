@@ -11,6 +11,7 @@ export const PHOTOS = {
     '/photos/photo_2023-11-13_21-28-54.jpg',
     '/photos/photo_2026-06-15_22-10-42.jpg',
     '/photos/photo_2026-06-15_22-59-33.jpg',
+    '/photos/photo_chest_flex.jpg',
   ],
 }
 
